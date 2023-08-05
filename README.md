@@ -1,2 +1,1 @@
-# my.mart
-online mart store website
+Responsive Online Mart Website
